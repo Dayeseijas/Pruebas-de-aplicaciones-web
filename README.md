@@ -17,6 +17,7 @@ Las pruebas se enfocaron en asegurar que la aplicación funcione de manera efici
 
 # Documentación
 "https://docs.google.com/spreadsheets/d/1LWXS4UpRh4j-swN_ZUr9J7F89hJhXyi6/edit?usp=sharing&ouid=107666868616548846051&rtpof=true&sd=true"
+"https://docs.google.com/document/d/1JU7q5yYi16QsE1YDLaeAUo6liMAZK9Ko/edit?usp=drive_link&ouid=107666868616548846051&rtpof=true&sd=true"
 
 # Instrucciones de Ejecución
 El proyecto incluye una carpeta dedicada que contiene el código fuente y todos los recursos necesarios para su ejecución.
