@@ -6,11 +6,11 @@ Este repositorio contiene el diseño y la ejecución de pruebas de aseguramiento
 
 Características:
 
-Pruebas funcionales para verificar el correcto funcionamiento de las principales características de la aplicación.
+- Pruebas funcionales para verificar el correcto funcionamiento de las principales características de la aplicación.
 
-Pruebas de interfaz de usuario (UI) para asegurar una experiencia óptima en Google Chrome y Firefox.
+- Pruebas de interfaz de usuario (UI) para asegurar una experiencia óptima en Google Chrome y Firefox.
 
-Validación en múltiples resoluciones de pantalla, garantizando la adaptabilidad y usabilidad en dispositivos de distintos tamaños.
+- Validación en múltiples resoluciones de pantalla, garantizando la adaptabilidad y usabilidad en dispositivos de distintos tamaños.
 
 
 Las pruebas se enfocaron en asegurar que la aplicación funcione de manera eficiente y ofrezca una experiencia de usuario consistente en todos los entornos.
